@@ -22,7 +22,6 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <!-- You can change these icons based on what you know. List of available icons: https://github.com/tandpfun/skill-icons -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,python,git,github,vscode,figma&perline=10" />
   </a>
@@ -30,18 +29,10 @@
 
 <br/>
 
-### 📊 GitHub Stats
+### 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahas-hasaranga&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Sahas's GitHub Stats" />
-</div>
-<br/>
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahas-hasaranga&theme=tokyonight&hide_border=true&background=0D1117" alt="Sahas's GitHub Streak" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahas-hasaranga&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 <br/>
@@ -61,4 +52,3 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
-
