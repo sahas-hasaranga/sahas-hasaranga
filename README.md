@@ -40,15 +40,14 @@
 ### 📫 Connect with Me
 
 <div align="left">
-  <!-- Replace YOUR_EMAIL_HERE with your actual email address -->
-  <a href="mailto:YOUR_EMAIL_HERE">
+  <a href="mailto:sahassahas540@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <!-- Replace YOUR_LINKEDIN_URL_HERE with your LinkedIn profile link -->
-  <a href="www.linkedin.com/in/sahas-hasaranga-82474a397">
+  <a href="https://www.linkedin.com/in/sahas-hasaranga-82474a397/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/sahas-hasaranga">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
+
