@@ -6,7 +6,8 @@
   </a>
 </div>
 
-<h3 align="center">Passionate Software Developer from Sri Lanka 🇱🇰</h3>
+<h3 align="center">Passionate Software Developer from Sri Lanka <img src="https://flagcdn.com/w40/lk.png" width="24" alt="Sri Lanka Flag"/></h3>
+
 
 <br/>
 
