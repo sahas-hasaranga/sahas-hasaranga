@@ -1,72 +1,64 @@
-<!-- Header Section -->
 <h1 align="center">Hi there, I'm Sahas Hasaranga! 👋</h1>
-<h3 align="center">Passionate Software Developer | Mobile & Web Enthusiast</h3>
 
-<p align="center">
-  I'm an enthusiastic developer who loves to solve problems and build beautiful, industrial-level applications. I am always exploring new technologies and building projects to improve my skills.
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Full+Stack+Developer;Mobile+%26+Web+Enthusiast" alt="Typing SVG" />
+  </a>
+</div>
+
+<h3 align="center">Passionate Software Developer from Sri Lanka 🇱🇰</h3>
+
+<br/>
+
+### 👨‍💻 About Me
+
+- 🎓 Currently pursuing a **Higher National Diploma in Software Engineering**
+- 💻 I love building beautiful, industrial-level web and mobile applications
+- 🚀 Exploring new technologies and building projects to improve my skills
+- 🤝 Always open to collaborate on exciting projects
+
+<br/>
+
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <!-- You can change these icons based on what you know. List of available icons: https://github.com/tandpfun/skill-icons -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,python,git,github,vscode,figma&perline=10" />
+  </a>
 </p>
 
 <br/>
 
-<!-- Social & Portfolio Links -->
+### 📊 GitHub Stats
+
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-URL" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
- 
-  <a href="mailto:YOUR-EMAIL@gmail.com">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahas-hasaranga&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Sahas's GitHub Stats" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahas-hasaranga&theme=tokyonight&hide_border=true&background=0D1117" alt="Sahas's GitHub Streak" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahas-hasaranga&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+<br/>
+
+### 📫 Connect with Me
+
+<div align="left">
+  <!-- Replace YOUR_EMAIL_HERE with your actual email address -->
+  <a href="mailto:YOUR_EMAIL_HERE">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <!-- Replace YOUR_LINKEDIN_URL_HERE with your LinkedIn profile link -->
+  <a href="YOUR_LINKEDIN_URL_HERE">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/sahas-hasaranga">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
 
-<br/>
-
-<!-- Skills/Tech Stack Section -->
-<h2>🛠️ Technologies & Tools I Use</h2>
-
-<p align="center">
-  <!-- Mobile & Frontend -->
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <br/>
-  <!-- Backend & Database -->
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <br/>
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-</p>
-
-<br/>
-
-<!-- GitHub Stats Section -->
-<h2>📈 My GitHub Stats</h2>
-
-<div align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sahas-hasaranga&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br/><br/>
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahas-hasaranga&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<br/>
-
-<!-- Currently Working On -->
-<h2>🌱 What I'm currently working on</h2>
-<ul>
-  <li>Building <b>Petalio Blossom</b> - A comprehensive flutter application.</li>
-  <li>Improving my skills in advanced architectural patterns and backend integrations.</li>
-</ul>
-
-<br/>
-
-<div align="center">
-  <i>Let's connect and build something awesome together! 🚀</i>
-</div>
