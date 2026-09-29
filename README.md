@@ -30,13 +30,7 @@
 
 <br/>
 
-### 🔥 GitHub Streak
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahas-hasaranga&theme=tokyonight&hide_border=true&background=0D1117" alt="Sahas's GitHub Streak" />
-</div>
-
-<br/>
 
 ### 📫 Connect with Me
 
