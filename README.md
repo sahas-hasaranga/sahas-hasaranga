@@ -44,5 +44,7 @@
   <a href="https://github.com/sahas-hasaranga">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  [![Portfolio](https://img.shields.io/badge/PORTFOLIO-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sahas-hasaranga.github.io/my-portfolio)
+
 </div>
 
